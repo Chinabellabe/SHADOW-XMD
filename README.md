@@ -48,11 +48,12 @@
 
 ***
 
-- <a href="https://github.com/ShadowWrld"><img title="Deploy On Render" src="https://img.shields.io/badge/DEV INFORMATION-h?color=grey&style=for-the-badge&logo=github" width="220" height="38.45"/></a></p>
+- <a href="https://Bot-hosting.net"><img title="Deploy On Panel" src="https://img.shields.io/badge/DEPLOY ON PANEL-h?color=blue&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
 
 ***
 
-- <a href="https://Bot-hosting.net"><img title="Deploy On Panel" src="https://img.shields.io/badge/DEPLOY ON PANEL-h?color=blue&style=for-the-badge&logo=render" width="220" height="38.45"/></a></p>
+- <a href="https://github.com/shadowwrld"><img title="Deploy On Render" src="https://img.shields.io/badge/DEV INFORMATION-h?color=grey&style=for-the-badge&logo=github" width="220" height="38.45"/></a></p>
+
 
 ***
 
@@ -182,16 +183,16 @@ jobs:
 
 ## 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧𝐬
 
-> ʟᴇs ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴs à sʜᴀᴅᴏᴡ sᴏɴᴛ ʟᴇs ʙɪᴇɴᴠᴇɴᴜᴇs ! sɪ ᴠᴏᴜs ᴀᴠᴇᴢ ᴅᴇs ɪᴅéᴇs ᴘᴏᴜʀ ᴅᴇ ɴᴏᴜᴠᴇʟʟᴇs ғᴏɴᴄᴛɪᴏɴɴᴀʟɪᴛés, ᴅᴇs ᴀᴍéʟɪᴏʀᴀᴛɪᴏɴs ᴏᴜ ᴅᴇs ᴄᴏʀʀᴇᴄᴛɪᴏɴs ᴅᴇ ʙᴏɢᴜᴇs, ɴ'ʜésɪᴛᴇᴢ ᴘᴀs à ᴏᴜᴠʀɪʀ ᴜɴᴇ ɪssᴜᴇ ᴏᴜ à sᴏᴜᴍᴇᴛᴛʀᴇ ᴜɴᴇ ᴅᴇᴍᴀɴᴅᴇ ᴅᴇ ᴘᴜʟʟ.
+> ʟᴇs ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴs à sʜᴀᴅᴏᴡ-xᴍᴅ sᴏɴᴛ ʟᴇs ʙɪᴇɴᴠᴇɴᴜᴇs ! sɪ ᴠᴏᴜs ᴀᴠᴇᴢ ᴅᴇs ɪᴅéᴇs ᴘᴏᴜʀ ᴅᴇ ɴᴏᴜᴠᴇʟʟᴇs ғᴏɴᴄᴛɪᴏɴɴᴀʟɪᴛés, ᴅᴇs ᴀᴍéʟɪᴏʀᴀᴛɪᴏɴs ᴏᴜ ᴅᴇs ᴄᴏʀʀᴇᴄᴛɪᴏɴs ᴅᴇ ʙᴏɢᴜᴇs, ɴ'ʜésɪᴛᴇᴢ ᴘᴀs à ᴏᴜᴠʀɪʀ ᴜɴᴇ ɪssᴜᴇ ᴏᴜ à sᴏᴜᴍᴇᴛᴛʀᴇ ᴜɴᴇ ᴅᴇᴍᴀɴᴅᴇ ᴅᴇ ᴘᴜʟʟ.
 ## 𝐓𝐇𝐀𝐍𝐊𝐒 𝐓𝐎 [𝐆𝐎𝐃]
                 
 ## 𝐋𝐢𝐜𝐞𝐧𝐜𝐞
 
-> ʟᴇ ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ sʜᴀᴅᴏᴡ-ᴍᴅ ᴇsᴛ ᴘᴜʙʟɪé sᴏᴜs ʟᴀ [Licence MIT](https://opensource.org/licenses/MIT).
+> ʟᴇ ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ sʜᴀᴅᴏᴡ-xᴍᴅ ᴇsᴛ ᴘᴜʙʟɪé sᴏᴜs ʟᴀ [Licence MIT](https://opensource.org/licenses/MIT).
 
-> ᴘʀᴏғɪᴛᴇᴢ ᴅᴇs ғᴏɴᴄᴛɪᴏɴɴᴀʟɪᴛés ᴠᴀʀɪéᴇs ᴅᴜ ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ sʜᴀᴅᴏᴡ-ᴍᴅ ᴘᴏᴜʀ ᴀᴍéʟɪᴏʀᴇʀ ᴠᴏs ᴄᴏɴᴠᴇʀsᴀᴛɪᴏɴs ᴇᴛ ʀᴇɴᴅʀᴇ ᴠᴏᴛʀᴇ ᴇxᴘéʀɪᴇɴᴄᴇ ᴡʜᴀᴛsᴀᴘᴘ ᴘʟᴜs ɪɴᴛéʀᴇssᴀɴᴛᴇ !
+> ᴘʀᴏғɪᴛᴇᴢ ᴅᴇs ғᴏɴᴄᴛɪᴏɴɴᴀʟɪᴛés ᴠᴀʀɪéᴇs ᴅᴜ ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ sʜᴀᴅᴏᴡ-xᴍᴅ ᴘᴏᴜʀ ᴀᴍéʟɪᴏʀᴇʀ ᴠᴏs ᴄᴏɴᴠᴇʀsᴀᴛɪᴏɴs ᴇᴛ ʀᴇɴᴅʀᴇ ᴠᴏᴛʀᴇ ᴇxᴘéʀɪᴇɴᴄᴇ ᴡʜᴀᴛsᴀᴘᴘ ᴘʟᴜs ɪɴᴛéʀᴇssᴀɴᴛᴇ !
 
 
 ## 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐩𝐞𝐮𝐫 :
  
-  [**༈𝐌𝐫.𝐒𝐇𝐀𝐃𝐎𝐖༈**](https://github.com/carlydopeboii/SHADOW-MD-BOT/)
+  [**༈𝐌𝐫.𝐒𝐇𝐀𝐃𝐎𝐖༈**](https://github.com/shadowwrld)
